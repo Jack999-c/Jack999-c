@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Jack999-c
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#include<stdio.h>
 
-<!---
-Jack999-c/Jack999-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+int main(void)
+{
+    printf("HelloWorld!\n");
+    return 0;
+}
